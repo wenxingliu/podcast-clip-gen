@@ -1,0 +1,5 @@
+interface:
+  display_name: "Podcast Clip & Video"
+  short_description: "Verify, clip, caption, and render podcast excerpts"
+  brand_color: "#123B37"
+  default_prompt: "Use $podcast-clip-video to turn my selected podcast passage into a corrected, synchronized audio and video clip."

@@ -1,0 +1,35 @@
+brand:
+  title: "StellaxAmy·自定义"
+  background_color: "#123B37"
+  accent_color: "#E2AD3E"
+  subtitle_color: "#FFF6DE"
+  subtitle_outline_color: "#092724"
+  subtitle_font: "/System/Library/Fonts/STHeiti Medium.ttc"
+  # font: /path/to/a/Chinese-capable-font.ttf
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  codec: h264
+  playback_speed: 1.1
+template:
+  name: blurred-cover-audiogram-v1
+  cover_scale: 0.82
+  cover_blur_px: 20
+  cover_opacity: 0.52
+  cover_brightness: 0.78
+  subtitle_mode: roll_up
+  subtitle_anchor_y: 0.43
+  waveform_anchor_y: 0.64
+  progress_anchor_y: 0.70
+  subtitles_max_lines: 3
+  subtitle_chars_per_line: 12
+  subtitle_max_chars_per_phrase: 24
+  font_size: 68
+  fade_ms: 120
+  rollup_context: 2
+  rollup_inactive_alpha: 150
+  rollup_far_alpha: 205
+  rollup_inactive_scale: 0.78
+  rollup_blank_line_between_phrases: false
+
